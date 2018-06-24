@@ -3,6 +3,8 @@ Self-Driving Car Engineer Nanodegree Program [link](https://www.udacity.com/cour
 
 This project creates an extended kalman filter to estimate the state of a moving object, using readings from a noisy lidar and noisy radar to converge on a state and estimated state. The error is measured using RMSE values that were required to be lower than specified tolerances.
 
+![Gif](ekf_gif.gif)
+
 ## Running the simulation
 This project uses a Udacity simulator which can be downloaded here: [Simulator](https://github.com/udacity/self-driving-car-sim/releases)
 
